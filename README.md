@@ -1,11 +1,10 @@
 
-
-![](https://i.ibb.co/4VWLSVh/46207-programmer-1.gif)
+<p align="center"> <img src="https://i.ibb.co/CzF6K7Z/programmer.gif" alt="nrshagor" /> </p>
 <h1 align="center">Hi 👋, I'm N R SHAGOR</h1>
 <h3 align="center">A Passionate Full Stack developer from Bangladesh</h3>
 
 
-<p align="left"> <img src="https://i.ibb.co/4VWLSVh/46207-programmer-1.gif" alt="nrshagor" /> </p>
+<p align="center"> <img src="https://i.ibb.co/4VWLSVh/46207-programmer-1.gif" alt="nrshagor" /> </p>
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
