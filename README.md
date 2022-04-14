@@ -1,22 +1,13 @@
-<body background="red">
 <h1 align="center">Hi 👋, I'm N R SHAGOR 😎</h1>
 <p align="center"> <img src="https://i.ibb.co/CzF6K7Z/programmer.gif" alt="nrshagor" /> </p>
 
 <h3 align="center">A Passionate Full Stack developer from Bangladesh</h3>
 
-
 <p align="center"> <img src="https://i.ibb.co/4VWLSVh/46207-programmer-1.gif" alt="nrshagor" /> </p>
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nrshagor&label=Profile%20views&color=00e600&style=flat" alt="nrshagor" /> </p>
 
-- 🔭 I’m currently working on this page. 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nrshagor&label=Profile%20views&color=0e75b6&style=flat" alt="nrshagor" /> </p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nrshagor" alt="nrshagor" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nrshagor" target="blank"><img src="https://img.shields.io/twitter/follow/nrshagor?logo=twitter&style=for-the-badge" alt="https://twitter.com/nrshagor" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nrshagor" target="blank"><img src="https://img.shields.io/twitter/follow/nrshagor?logo=twitter&style=for-the-badge" alt="https://twitter.com/nrshagor" /></a></p>
 
 - 🔭 I’m currently working on [Car World](https://car-world-a1cb5.web.app/)
 
@@ -47,4 +38,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrshagor&show_icons=true&locale=en&theme=chartreuse-dark" alt="nrshagor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrshagor&theme=chartreuse-dark" alt="nrshagor" /></p>
-</body>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nrshagor)  
