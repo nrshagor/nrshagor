@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Full Stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrshagor&label=Profile%20views&color=0e75b6&style=flat" alt="nrshagor" /> </p>
-(https://raw.githubusercontent.com/nrshagor/nrshagor/main/46207-programmer-1.gif)
+![](https://raw.githubusercontent.com/nrshagor/nrshagor/main/46207-programmer-1.gif)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nrshagor" alt="nrshagor" /></a> </p>
 
@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrshagor&show_icons=true&locale=en&theme=chartreuse-dark" alt="nrshagor" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrshagor&" alt="nrshagor" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrshagor&theme=chartreuse-dark" alt="nrshagor" /></p>
