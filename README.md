@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nrshagor" alt="nrshagor" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nrshagor" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/nrshagor?logo=twitter&style=for-the-badge" alt="https://twitter.com/nrshagor" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nrshagor" target="blank"><img src="https://img.shields.io/twitter/follow/nrshagor?logo=twitter&style=for-the-badge" alt="https://twitter.com/nrshagor" /></a> </p>
 
 - 🔭 I’m currently working on [Car World](https://car-world-a1cb5.web.app/)
 
