@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm N R SHAGOR</h1>
 <h3 align="center">A Passionate Full Stack developer from Bangladesh</h3>
-
+![I am GitHub Readme Generator's creator](https://i.ibb.co/4VWLSVh/46207-programmer-1.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrshagor&label=Profile%20views&color=0e75b6&style=flat" alt="nrshagor" /> </p>
-![nrshagor](https://i.ibb.co/4VWLSVh/46207-programmer-1.gif)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nrshagor" alt="nrshagor" /></a> </p>
 
