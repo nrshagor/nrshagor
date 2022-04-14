@@ -2,7 +2,20 @@
 
 <h1 align="center">Hi 👋, I'm N R SHAGOR</h1>
 <h3 align="center">A Passionate Full Stack developer from Bangladesh</h3>
-![(https://i.ibb.co/4VWLSVh/46207-programmer-1.gif)](https://i.ibb.co/4VWLSVh/46207-programmer-1.gif)
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://i.ibb.co/4VWLSVh/46207-programmer-1.gif)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrshagor&label=Profile%20views&color=0e75b6&style=flat" alt="nrshagor" /> </p>
 
 
