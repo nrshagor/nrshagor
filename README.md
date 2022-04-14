@@ -1,10 +1,11 @@
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://i.ibb.co/4VWLSVh/46207-programmer-1.gif)
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm N R SHAGOR</h1>
 <h3 align="center">A Passionate Full Stack developer from Bangladesh</h3>
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://i.ibb.co/4VWLSVh/46207-programmer-1.gif)
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
