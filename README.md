@@ -33,4 +33,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrshagor&theme=chartreuse-dark" alt="nrshagor" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nrshagor)  
