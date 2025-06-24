@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm N R SHAGOR 😎</h1>
-<p align="center"> <img src="https://i.ibb.co/CzF6K7Z/programmer.gif" alt="nrshagor" /> </p>
+
 
 <h3 align="center">A Passionate Full Stack developer from Bangladesh</h3>
 
