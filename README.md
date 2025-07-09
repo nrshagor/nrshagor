@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrshagor&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="nrshagor" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrshagor&show_icons=true&locale=en&theme=chartreuse-dark" alt="nrshagor" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrshagor&theme=chartreuse-dark" alt="nrshagor" /></p>
 
